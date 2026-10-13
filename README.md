@@ -12,7 +12,7 @@ Cardápio digital, com envio de pedido direto para whatsapp.
 <img width="469" height="849" alt="Cardapio01-Mobile" src="https://github.com/user-attachments/assets/ef41d5af-b3a4-412c-92db-c00ffad04112" />
 
 ## Demonstrativo do projeto
-[Acesse projeto online]("https://card-pio-virid.vercel.app")
+[**Acesse projeto online**]("https://card-pio-virid.vercel.app")
 
 ## Tecnologias utilizadas
 .HTML
