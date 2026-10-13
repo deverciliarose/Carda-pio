@@ -35,12 +35,16 @@ h1{
   font-weight: 700;
   font-style: italic;
   margin-bottom: 5px;
-   background: linear-gradient(
+  width: fit-content;
+  margin: 0 auto 5px;
+    background: linear-gradient(
         to right,
-        green 30%,
-        white 60%,
-        red 5%
-        
+        #009246 0%,
+        #009246 33.33%,
+        #FFFFFF 33.33%,
+        #FFFFFF 66.66%,
+        #CE2B37 66.66%,
+        #CE2B37 100%
     );
   background-clip: text;
   -webkit-background-clip: text;
